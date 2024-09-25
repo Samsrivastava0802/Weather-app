@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+
+    //
+    <string name="daily_forecast">Daily Forecast</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="wind_info">Wind &amp; Pressure</string>
+
+    //
+    <string name="wind_direction">Wind Direction</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="pressure">Pressure</string>
+
+
+</resources>
